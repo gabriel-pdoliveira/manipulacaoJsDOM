@@ -1,0 +1,40 @@
+*{
+    margin:0;
+
+}
+.fundo{
+    background-image: linear-gradient(95deg, #fff, #000);
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+.d-grid{
+    background-color: rgb(47, 47, 78);
+    padding: 3vh 1.5vw;
+    
+    text-align: center;
+}
+h1{
+    color: #fff;
+}
+a{
+    text-decoration: none;
+    color:#111;
+}
+p{
+    color: #fff;    
+}
+.thead{
+    border-bottom: 1px solid #fff;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 5px;
+}
